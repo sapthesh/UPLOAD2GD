@@ -5,7 +5,7 @@ drive_folder_name = "UPLOD2GDbot"
 MEGA_EMAIL = "email"
 MEGA_PASSWORD = "password"
 
-START = "Hi {}  \nI am Upload 2 Drive Bot.\nPlease Authorise To use me.\nBy using /auth \n\nFor more info /help\n\nPlease Report Bugs @aryanvikash"
+START = "Hi {}  \nI am Upload 2 Google Drive Bot.\nPlease Authorise To use me.\nBy using /auth \n\nFor more info /help\n\nPlease Report Bugs @saptheshv"
 
 HELP = """<b>AUTHORISE BOT</b>
 Use  /auth Command Generate
